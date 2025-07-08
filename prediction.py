@@ -5,7 +5,7 @@ from io import BytesIO
 from PIL import Image
 
 # class Pose:
-def Predict(self, event):
+def Predict(event):
     # get payload
     body = json.loads(event['body'])
 
