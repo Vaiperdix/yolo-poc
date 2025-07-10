@@ -1,0 +1,10 @@
+yolo-poc.rar
+testapi.py
+test.py
+models/yolo11x-pose.pt
+models/yolo11s-pose.onnx
+models/yolo11n-pose.onnx
+models/yolo11m-pose.onnx
+models/yolo11l-pose.pt
+models/yolo11l-pose.onnx
+img.jpg
